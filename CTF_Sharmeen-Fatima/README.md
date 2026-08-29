@@ -42,3 +42,18 @@ admin/config.php                                                   → auto-crea
 admin/SQLI_WRITEUP.md                                               → payloads + fix, for Part 2
 ctf_answer_key.md                                                   → flag locations + solutions, for Part 1
 ```
+
+
+
+
+---
+
+🧠 **Author:** *[Sharmeen Fatima](https://github.com/sharmeen-fatima)*  
+📅 **Last Updated:** *30 Auguest 2026*  
+
+- **📫 Feel free to reach out: **✉️ (creativecoderpakistan@gmail.com).****
+- ***✒ For more information about Cyber-Security and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).*****
+
+***“Learning never stops — stay curious, stay creative!”***
+
+***☺️STAY HERE, STAY CONNECTED✨***
