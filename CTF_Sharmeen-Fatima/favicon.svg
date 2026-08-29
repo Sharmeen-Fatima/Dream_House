@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Dream House Icon</title>
+  <desc>Brand favicon. Internal build tag: PicoCTF{svg_f1l3s_h4v3_s3cr3ts_t00}</desc>
+  <!-- design handoff: house-mark v3, brass on ink, do not recolor without approval -->
+  <rect width="64" height="64" rx="10" fill="#12203A"/>
+  <path d="M32 14 L50 28 V50 H38 V38 H26 V50 H14 V28 Z" fill="#B78A46"/>
+</svg>

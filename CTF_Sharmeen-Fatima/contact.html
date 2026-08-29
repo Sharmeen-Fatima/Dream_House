@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact — Dream House</title>
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+</head>
+<body>
+
+<header class="site-header">
+  <nav class="nav">
+    <a class="brand" href="index.html">Dream House<span class="dot">.</span><span class="sub">Karachi</span></a>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="listings.html">Listings</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="team.html">Our Team</a></li>
+      <li><a href="contact.html" class="current">Contact</a></li>
+      <li class="mobile-only"><a href="contact.html" class="nav-cta">Book a Visit</a></li>
+    </ul>
+    <a href="contact.html" class="nav-cta desktop-only">Book a Visit</a>
+    <span id="hamburger"><svg viewBox="0 0 24 24" fill="none" stroke="#12203A" stroke-width="1.6"><path d="M3 6h18M3 12h18M3 18h18"/></svg></span>
+    <span id="close-menu"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M6 6l12 12M18 6L6 18"/></svg></span>
+  </nav>
+</header>
+<div class="scrim" id="scrim"></div>
+
+<section class="page-header" style="--bgimg:url('assets/img/contact-bg.jpg');">
+  <div class="wrap">
+    <div class="eyebrow on-dark">Let's Talk</div>
+    <h1>Book a visit or ask us anything</h1>
+    <div class="crumbs"><a href="index.html">Home</a> / Contact</div>
+  </div>
+</section>
+
+<section class="section on-cream">
+  <div class="wrap">
+    <div class="split reveal" style="align-items:flex-start;">
+      <div>
+        <div class="eyebrow">Send a Message</div>
+        <h2 style="margin-bottom:26px;">Type your message here...</h2>
+        <form id="contactForm">
+          <div class="form-grid">
+            <div>
+              <label for="name">Full Name</label>
+              <input type="text" id="name" name="name" placeholder="Your name" required>
+            </div>
+            <div>
+              <label for="phone">Phone</label>
+              <input type="tel" id="phone" name="phone" placeholder="+92 3xx xxxxxxx" required>
+            </div>
+            <div class="full">
+              <label for="email">Email</label>
+              <input type="email" id="email" name="email" placeholder="you@example.com" required>
+            </div>
+            <div class="full">
+              <label for="interest">I'm interested in</label>
+              <select id="interest" name="interest">
+                <option>Buying a house</option>
+                <option>Renting</option>
+                <option>Listing my property</option>
+                <option>General inquiry</option>
+              </select>
+            </div>
+            <div class="full">
+              <label for="message">Message</label>
+              <textarea id="message" name="message" placeholder="Tell us about the home you're looking for..." required></textarea>
+            </div>
+          </div>
+          <button type="submit" class="btn btn-dark" style="margin-top:22px;">Send Message</button>
+        </form>
+      </div>
+
+      <div>
+        <div class="info-card">
+          <div class="ic">01</div>
+          <div><h4>Visit the Office</h4><p>Khayaban-e-Rahat, DHA Phase 8, Karachi, Sindh, Pakistan</p></div>
+        </div>
+        <div class="info-card">
+          <div class="ic">02</div>
+          <div><h4>Call Us</h4><p>+92 300 000 0000 — Mon to Sat, 10am–7pm</p></div>
+        </div>
+        <div class="info-card">
+          <div class="ic">03</div>
+          <div><h4>Email</h4><p>hello@dreamhouse.pk</p></div>
+        </div>
+        <div class="map-box">
+          <iframe src="https://www.google.com/maps?q=DHA%20Phase%208%20Karachi&output=embed" loading="lazy" title="Dream House office location map"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div><div class="foot-brand">Dream House<span class="dot">.</span></div><p>A Karachi property house connecting families with verified villas, bungalows and houses across DHA, Clifton and beyond.</p></div>
+      <div><h4>Explore</h4><ul><li><a href="listings.html">Listings</a></li><li><a href="about.html">About Us</a></li><li><a href="team.html">Our Team</a></li></ul></div>
+      <div><h4>Company</h4><ul><li><a href="contact.html">Contact</a></li><li><a href="contact.html">Book a Visit</a></li><li><a href="admin/login.php">Staff Login</a></li></ul></div>
+      <div><h4>Visit</h4><p>Khayaban-e-Rahat, DHA Phase 8<br>Karachi, Sindh, Pakistan</p><p style="margin-top:10px;">+92 300 000 0000<br>hello@dreamhouse.pk</p></div>
+    </div>
+    <div class="footer-bottom"><span>© 2026 Dream House. All rights reserved.</span><div class="footer-social"><a href="#">f</a><a href="#">ig</a><a href="#">in</a></div></div>
+  </div>
+</footer>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
