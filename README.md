@@ -79,3 +79,15 @@ This is a **learning environment**. Flags and their exact locations are intentio
 ---
 
 *Built for Cybersecurity students to bridge the gap between classroom theory and real-world web security practice.*
+
+---
+
+🧠 **Author:** *[Sharmeen Fatima](https://github.com/sharmeen-fatima)*  
+📅 **Last Updated:** *30 Auguest 2026*  
+
+- **📫 Feel free to reach out: **✉️ (creativecoderpakistan@gmail.com).****
+- ***✒ For more information about Cyber-Security and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).*****
+
+***“Learning never stops — stay curious, stay creative!”***
+
+***☺️STAY HERE, STAY CONNECTED✨***
